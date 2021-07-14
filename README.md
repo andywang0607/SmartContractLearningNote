@@ -25,3 +25,8 @@ My note for learning smart contract
 
 ## Start Coding
 - [Hello world](01_helloworld/helloworld.md)
+    - My first smart contract
+- [Basic variable type](02_basicvariabletype/basicvariable.md)
+    - Introduce to some basic type of solidity
+    - Interact with the Smart Contract
+    - Verify solidity will catch overflow automaitcally
