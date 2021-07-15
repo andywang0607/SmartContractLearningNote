@@ -34,3 +34,7 @@ My note for learning smart contract
     - Study function modifier
     - Study Units and Globally Available Variables
     - A coding practice for Send/Withdraw Ether to/from smart contract
+- [Life-Cycle and Secure](04_lifecycleandsecure/lifecycleandsecure.md)
+    - Security issue
+    - Pause smart contract
+    - Destroy smart contract
