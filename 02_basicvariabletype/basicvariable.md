@@ -4,6 +4,10 @@ Study the following basic variable type of solidity
 - Boolean
 - String
 - Address
+- Mapping
+- Struct
+- Array
+- Enum
 
 ## Note
 - All variable are initialized by default
@@ -90,4 +94,30 @@ contract StringExample {
 - The Smart Contract can store an address in the variable "myAddress", which can be its own address, but can be any other address as well.
 - All information on the blochain is public, so we can retrieve the balance of the address stored in the variable "myAddress"
 - The Smart Contract can transfer funds from his own address to another address. But it cannot transfer the funds from another address.
-- Transferring Ether is fundamentally different than transferring ERC20 Tokens, as you will see later.
+- Transferring Ether is fundamentally different than transferring ERC20 Tokens.
+
+## Mapping
+- Syntax: mapping(_KeyType => _ValueType)
+- Like hash map
+- Public state variables of mappings become a getter
+
+## Struct
+- Member of the struct can not be the type of the struct
+- It is better to define struct than object
+    - For saving gas consumption
+
+## Array
+- Fixed or Dynamic size
+    - T[k]: fixed size of type T with k elements
+    - T[]: Dynamic size of type T
+    - T[][5]: 5 dynamic sized arrays
+- Member
+    - Length
+    - Push()
+
+- Avoid use it because of gas cost!
+    - It's mostly better to use mappings
+
+## Enum
+- Create user-defined type in solidity
+- Will be integers internally 
