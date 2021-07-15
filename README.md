@@ -27,6 +27,10 @@ My note for learning smart contract
 - [Hello world](01_helloworld/helloworld.md)
     - My first smart contract
 - [Basic variable type](02_basicvariabletype/basicvariable.md)
-    - Introduce to some basic type of solidity
+    - Study some basic type of solidity
     - Interact with the Smart Contract
     - Verify solidity will catch overflow automaitcally
+- [Send and withdraw Ether](03_sendandwithdraw/sendandwithdraw.md)
+    - Study function modifier
+    - Study Units and Globally Available Variables
+    - A coding practice for Send/Withdraw Ether to/from smart contract
