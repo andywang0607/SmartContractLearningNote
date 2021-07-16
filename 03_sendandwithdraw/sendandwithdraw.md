@@ -1,30 +1,6 @@
 # Deposit and withdraw
-- Function modifier
 - Units and Globally Available Variables
 - Send/Withdraw Ether to/from smart contract
-
-## [Function Modifier](https://docs.soliditylang.org/en/v0.8.0/contracts.html?highlight=view#view-functions)
-- View: 
-    - Functions do not to modify the state
-    - The following statements are considered modifying the state
-        1. Writing to state variables.
-        2. Emitting events.
-        3. Creating other contracts.
-        4. Using selfdestruct.
-        5. Sending Ether via calls.
-        6. Calling any function not marked view or pure.
-        7. Using low-level calls.
-        8. Using inline assembly that contains certain opcodes.
-- Pure:
-    - Function do not read from or modify the state
-    - Following are considered reading from the state
-        1. Reading from state variables.
-        2. Accessing address(this).balance or <address>.balance.
-        3. Accessing any of the members of block, tx, msg
-        4. Calling any function not marked pure.
-        5. Using inline assembly that contains certain opcodes.
-- Payable
-    - Enable function to receive Ether
 
 ## [Units and Globally Available Variables](https://docs.soliditylang.org/en/v0.8.0/units-and-global-variables.html)
 - Time Unit

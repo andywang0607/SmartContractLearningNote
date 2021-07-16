@@ -31,7 +31,6 @@ My note for learning smart contract
     - Interact with the Smart Contract
     - Verify solidity will catch overflow automaitcally
 - [Send and withdraw Ether](03_sendandwithdraw/sendandwithdraw.md)
-    - Study function modifier
     - Study Units and Globally Available Variables
     - A coding practice for Send/Withdraw Ether to/from smart contract
 - [Life-Cycle and Secure](04_lifecycleandsecure/lifecycleandsecure.md)
@@ -40,4 +39,8 @@ My note for learning smart contract
     - Destroy smart contract
 - [Exception Handling](05_exceptionhandling/exceptionhandling.md)
     - Study Require and Assert a in Solidity
+- [Function visibility/Function modifier/Fallback Function](06_function/function.md)
+    - Function visiblility
+    - Function modifier
+    - Fallback function
 
