@@ -38,3 +38,6 @@ My note for learning smart contract
     - Security issue
     - Pause smart contract
     - Destroy smart contract
+- [Exception Handling](05_exceptionhandling/exceptionhandling.md)
+    - Study Require and Assert a in Solidity
+
