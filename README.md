@@ -43,4 +43,6 @@ My note for learning smart contract
     - Function visiblility
     - Function modifier
     - Fallback function
+- [Event](07_Event/event.md)
+    - Study event in solidity
 
