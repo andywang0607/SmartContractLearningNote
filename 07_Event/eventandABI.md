@@ -1,7 +1,8 @@
 # Event
 - Study event in solidity
+- Study ABI in solidity
 
-## Introduction
+## Event
 - [Document](https://docs.soliditylang.org/en/v0.8.6/abi-spec.html?highlight=event#events)
 - Used for return values from transactions
 - Used externally to trigger functionality
@@ -47,3 +48,14 @@ contract EventExample {
     }
 }
 ```
+
+## Application Binary Interface (ABI)
+- Standard way to interact with contracts in the Ethereum ecosystem
+    - Both from outside the blockchain and for contract-to-contract interaction
+
+- ABI Array
+    - Contain  all the functions/parameters/return values of the contract
+
+- How to use Debugger in remix
+    - Just pasted transaction hash to debugger
+    - Enable to see bytecode and its gas costs

@@ -24,6 +24,7 @@ My note for learning smart contract
     - Example: Ganache
 
 ## Start Coding
+### Fundamentals of Solidity
 - [Hello world](01_helloworld/helloworld.md)
     - My first smart contract
 - [Basic variable type](02_basicvariabletype/basicvariable.md)
@@ -43,6 +44,7 @@ My note for learning smart contract
     - Function visiblility
     - Function modifier
     - Fallback function
-- [Event](07_Event/event.md)
+- [Event and ABI](07_Event/eventandABI.md)
     - Study event in solidity
+    - Study debugger in Remix and ABI
 
