@@ -47,4 +47,5 @@ My note for learning smart contract
 - [Event and ABI](07_Event/eventandABI.md)
     - Study event in solidity
     - Study debugger in Remix and ABI
-
+- Simple Project
+    - [Shared Wallet](https://github.com/andywang0607/SharedWallet)
