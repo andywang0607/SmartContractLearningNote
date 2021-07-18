@@ -23,7 +23,7 @@ My note for learning smart contract
     - Allow to connect with specific RPC address node
     - Example: Ganache
 
-## Start Coding
+## Note and Practice
 ### Fundamentals of Solidity
 - [Hello world](01_helloworld/helloworld.md)
     - My first smart contract
@@ -49,3 +49,9 @@ My note for learning smart contract
     - Study debugger in Remix and ABI
 - Simple Project
     - [Shared Wallet](https://github.com/andywang0607/SharedWallet)
+
+### Web3.js
+- [Fundamentals of Web3.js](08_web3/fundamentalsofweb3.md)
+    - Study Web3.js
+    - Environment Setup
+    - Interaction between Smart Contract and Web3.js
