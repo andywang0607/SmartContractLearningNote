@@ -55,3 +55,9 @@ My note for learning smart contract
     - Study Web3.js
     - Environment Setup
     - Interaction between Smart Contract and Web3.js
+
+### Truffle
+- [Supply Chain] (https://github.com/andywang0607/SupplyChain)
+    - Learn the low-level function address.call.value
+    - Learn the Workflow with Truffle
+    - Learn Unit Testing with Truffle
