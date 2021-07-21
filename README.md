@@ -61,3 +61,6 @@ My note for learning smart contract
     - Learn the low-level function address.call.value
     - Learn the Workflow with Truffle
     - Learn Unit Testing with Truffle
+
+### Go-Ethereum
+- [Create Private Chain and Mine Ether](09_geth/geth.md)
